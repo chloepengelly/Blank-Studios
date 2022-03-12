@@ -343,6 +343,9 @@ MonoBehaviour:
   shotPoint: {fileID: 2665861957088165173}
   bulletSpeed: 60
   turretATK: 10
+  level1Cost: 10
+  level2Cost: 0
+  level3Cost: 0
   enemiesToTarget: []
 --- !u!1 &5131806358533992524
 GameObject:

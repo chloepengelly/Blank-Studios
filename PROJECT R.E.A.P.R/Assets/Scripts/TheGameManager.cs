@@ -14,7 +14,7 @@ public class TheGameManager : MonoBehaviour
     void Start()
     {
         playerHP = 100;
-        playerBalance = 0;
+        playerBalance = 100;
     }
 
     void Update()
